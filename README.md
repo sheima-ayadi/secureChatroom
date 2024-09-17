@@ -3,7 +3,7 @@
 - Développer une application de messagerie instantanée sécurisée utilisant une hiérarchie d’entités virtuelles de certification x509 avec OpenSSL et LDAP. L'objectif est de sécuriser les échanges électroniques entre entreprises, particuliers et administrations via une Infrastructure à Clef Publique (PKI).
 
 -- video Demo
-https://github.com/sheima-ayadi/secured-chatroom/blob/master/Securd_chatroom_demo.mp4
+https:/github.com/sheima-ayadi/secured-chatroom/blob/master/Securd_chatroom_demo.mp4
 
 -- Fonctionnalités
 - Inscription et Connexion:
